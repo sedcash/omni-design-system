@@ -1,0 +1,602 @@
+{
+  "color": {
+    "red": {
+      "ultraLight": {
+        "value": "#ffcccc",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#ff9999",
+        "type": "color"
+      },
+      "light": {
+        "value": "#ff6666",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#ff3333",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#ff0000",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#e60000",
+        "type": "color"
+      },
+      "base": {
+        "value": "#cc0000",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#990000",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#660000",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#330000",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#1a0000",
+        "type": "color"
+      }
+    },
+    "orange": {
+      "ultraLight": {
+        "value": "#ffe6cc",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#ffcc99",
+        "type": "color"
+      },
+      "light": {
+        "value": "#ff9933",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#ff6600",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#cc5200",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#b34700",
+        "type": "color"
+      },
+      "base": {
+        "value": "#993300",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#7a2d00",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#5c2400",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#3d1a00",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#1e0f00",
+        "type": "color"
+      }
+    },
+    "yellow": {
+      "ultraLight": {
+        "value": "#ffffcc",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#ffff99",
+        "type": "color"
+      },
+      "light": {
+        "value": "#ffff66",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#ffff33",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#ffff00",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#e6e600",
+        "type": "color"
+      },
+      "base": {
+        "value": "#cccc00",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#b3b300",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#999900",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#666600",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#333300",
+        "type": "color"
+      }
+    },
+    "green": {
+      "ultraLight": {
+        "value": "#ccffcc",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#99ff99",
+        "type": "color"
+      },
+      "light": {
+        "value": "#66ff66",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#33ff33",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#00ff00",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#00e600",
+        "type": "color"
+      },
+      "base": {
+        "value": "#00cc00",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#009900",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#006600",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#003300",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#001a00",
+        "type": "color"
+      }
+    },
+    "blue": {
+      "ultraLight": {
+        "value": "#e6f7ff",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#b3e0ff",
+        "type": "color"
+      },
+      "light": {
+        "value": "#80ccff",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#4da6ff",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#1a8cff",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#0066ff",
+        "type": "color"
+      },
+      "base": {
+        "value": "#0052cc",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#0040b3",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#002d80",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#001a4d",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#000d26",
+        "type": "color"
+      }
+    },
+    "purple": {
+      "ultraLight": {
+        "value": "#f2e6ff",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#e0b3ff",
+        "type": "color"
+      },
+      "light": {
+        "value": "#d180ff",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#b84dff",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#9b1aff",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#8000cc",
+        "type": "color"
+      },
+      "base": {
+        "value": "#6600b3",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#4d0099",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#330080",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#1a004d",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#0d0026",
+        "type": "color"
+      }
+    },
+    "pink": {
+      "ultraLight": {
+        "value": "#f8c8d8",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#f2a6b0",
+        "type": "color"
+      },
+      "light": {
+        "value": "#ec7b88",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#e55360",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#e01935",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#c4001e",
+        "type": "color"
+      },
+      "base": {
+        "value": "#a30018",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#820012",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#60000c",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#3f0007",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#1f0003",
+        "type": "color"
+      }
+    },
+    "cyan": {
+      "ultraLight": {
+        "value": "#e0ffff",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#b3ffff",
+        "type": "color"
+      },
+      "light": {
+        "value": "#80ffff",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#4dffff",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#1affff",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#00e6e6",
+        "type": "color"
+      },
+      "base": {
+        "value": "#00cccc",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#00b3b3",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#009999",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#006666",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#003333",
+        "type": "color"
+      }
+    },
+    "lime": {
+      "ultraLight": {
+        "value": "#e6f5a1",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#b3eb4d",
+        "type": "color"
+      },
+      "light": {
+        "value": "#80e600",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#4de600",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#1ad100",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#19b300",
+        "type": "color"
+      },
+      "base": {
+        "value": "#199900",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#168000",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#0f6a00",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#0a5300",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#004100",
+        "type": "color"
+      }
+    },
+    "teal": {
+      "ultraLight": {
+        "value": "#e6f2f2",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#b3d9d9",
+        "type": "color"
+      },
+      "light": {
+        "value": "#80bfbf",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#4da6a6",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#1a8c8c",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#1f7070",
+        "type": "color"
+      },
+      "base": {
+        "value": "#196666",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#145c5c",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#0f4a4a",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#0a3737",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#002626",
+        "type": "color"
+      }
+    },
+    "aqua": {
+      "ultraLight": {
+        "value": "#e0ffff",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#b3ffff",
+        "type": "color"
+      },
+      "light": {
+        "value": "#80ffff",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#4dffff",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#1affff",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#00cccc",
+        "type": "color"
+      },
+      "base": {
+        "value": "#009999",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#006666",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#003333",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#001a1a",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#000d0d",
+        "type": "color"
+      }
+    },
+    "black": {
+      "ultraLight": {
+        "value": "#b3b3b3",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#808080",
+        "type": "color"
+      },
+      "light": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#1a1a1a",
+        "type": "color"
+      },
+      "base": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "gray": {
+      "ultraLight": {
+        "value": "#f2f2f2",
+        "type": "color"
+      },
+      "extraLight": {
+        "value": "#e6e6e6",
+        "type": "color"
+      },
+      "light": {
+        "value": "#cccccc",
+        "type": "color"
+      },
+      "soft": {
+        "value": "#b3b3b3",
+        "type": "color"
+      },
+      "normalLight": {
+        "value": "#999999",
+        "type": "color"
+      },
+      "mid": {
+        "value": "#808080",
+        "type": "color"
+      },
+      "base": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "mediumDark": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "extraDark": {
+        "value": "#1a1a1a",
+        "type": "color"
+      },
+      "ultraDark": {
+        "value": "#0d0d0d",
+        "type": "color"
+      }
+    }
+  }
+}
