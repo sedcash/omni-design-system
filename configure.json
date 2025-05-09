@@ -1,0 +1,15 @@
+{
+  "source": ["tokens/colors.json"],  // Path to the source tokens file
+  "platforms": {
+    "ios": {
+      "transformGroup": "ios",  // iOS transformation group (like UIColor in Swift)
+      "buildPath": "build/ios/",  // Directory for output Swift files
+      "files": [
+        {
+          "destination": "colors.swift",  // Name of the output Swift file
+          "format": "ios/swift"  // Format for generating Swift code (UIColor)
+        }
+      ]
+    }
+  }
+}
